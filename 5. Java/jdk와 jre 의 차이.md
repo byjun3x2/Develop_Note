@@ -6,7 +6,6 @@ author:
   - "[[Perplexity AI]]"
 published: 
 created: 2025-03-05
-description: Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 tags:
   - jdk
   - jre
