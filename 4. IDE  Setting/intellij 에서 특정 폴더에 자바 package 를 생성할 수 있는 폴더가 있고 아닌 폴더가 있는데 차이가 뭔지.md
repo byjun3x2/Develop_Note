@@ -2,9 +2,6 @@
 link: "[[_IDE Setting Start]]"
 title: IntelliJ 소스 루트 폴더 설정법
 source: https://www.perplexity.ai/search/intellij-eseo-teugjeong-poldeo-ij5goMA.TVi_TQHF8Hs5JQ
-author:
-  - "[[Perplexity AI]]"
-published: 
 created: 2025-03-04
 tags:
   - Intellij

@@ -2,9 +2,6 @@
 link: "[[_IDE Setting Start]]"
 title: intellij 에서 줄바꿈을 하는 명령어
 source: https://www.perplexity.ai/search/intellij-eseo-julbaggumeul-han-nGMVBx.TRvOv7LzyIj9.0Q
-author:
-  - "[[Perplexity AI]]"
-published: 
 created: 2025-03-04
 tags:
   - JAVA

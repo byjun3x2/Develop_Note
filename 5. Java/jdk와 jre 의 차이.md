@@ -2,9 +2,6 @@
 link: "[[_Java Start]]"
 title: jdk 와 jre 의 차이
 source: https://www.perplexity.ai/search/jdk-wa-jre-e-daehae-gajang-swi-y5ahWKvIQmCPv_8wim7xWQ
-author:
-  - "[[Perplexity AI]]"
-published: 
 created: 2025-03-05
 tags:
   - jdk

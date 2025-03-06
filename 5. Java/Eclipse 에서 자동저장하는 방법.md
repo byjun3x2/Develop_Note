@@ -2,9 +2,6 @@
 link: "[[_IDE Setting Start]]"
 title: Perplexity
 source: https://www.perplexity.ai/search/eclipse-tuleseo-jadongjeojange-CurNh2_bShSfbsNTec7T9Q
-author:
-  - "[[Perplexity AI]]"
-published: 
 created: 2025-03-05
 tags:
   - Eclipse

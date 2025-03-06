@@ -2,9 +2,6 @@
 link: "[[_Java Start]]"
 title: Perplexity
 source: https://www.perplexity.ai/search/jabaeseo-wora-ran-gaenyeomi-is-njIhUijZTeqeezv1sm8czA
-author:
-  - "[[Perplexity AI]]"
-published: 
 created: 2025-03-05
 tags:
   - WORA
