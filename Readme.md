@@ -1,5 +1,4 @@
 [[_Start]]
-# Develop_Note
 
 ![Develop Note Cover](11.%20Images/Develop_Note.png)
 ## 요약
