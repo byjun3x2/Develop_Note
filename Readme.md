@@ -1,8 +1,7 @@
 [[_Start]]
 # Develop_Note
 
-![[Develop_Note.png]]
-
+![Develop Note Cover](11.%20Images/Develop_Note.png)
 ## 요약
 
 이 레포지토리는 노트앱인 Obsidian 을 사용해 작성한 "개발 관련 노트" 의 모음집입니다.
