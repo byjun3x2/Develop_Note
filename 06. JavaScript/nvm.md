@@ -1,5 +1,5 @@
 ---
-link: "[[_Develop_Settings]]"
+link: "[[_JavaScript]]"
 title: nvm이 뭔지 한줄로 설명하고 왜 생겨났는지 언제 생겨났는지 단점이 있으면 그것도 기술해줘
 source: https://www.perplexity.ai/search/nvmi-mweonji-hanjulro-seolmyeo-kBiT9OMoRo.PEH6HEwNjqA
 created: 2025-11-20
