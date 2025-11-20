@@ -1,4 +1,4 @@
-[[_JavaScript]]
+[[_Javascript]]
 
 윈도우 , 맥 모두 사용자의 HOME Directory 아래 있는 .yarnrc 파일
 

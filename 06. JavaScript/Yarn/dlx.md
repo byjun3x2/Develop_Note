@@ -1,10 +1,10 @@
 ---
-link: "[[_Clipping]]"
-title: "yarn dlx 명령어의 dlx 가 정확히 뭐야 줄임말이야 dlx가 뭔지 정확한 공식문서를 기반으로만 설명해줘 원리"
-source: "https://www.perplexity.ai/search/yarn-dlx-myeongryeongeoyi-dlx-4vt5rYaPRoi1QEOGmeT9Tw"
+link: "[[_Javascript]]"
+title: yarn dlx 명령어의 dlx 가 정확히 뭐야 줄임말이야 dlx가 뭔지 정확한 공식문서를 기반으로만 설명해줘 원리
+source: https://www.perplexity.ai/search/yarn-dlx-myeongryeongeoyi-dlx-4vt5rYaPRoi1QEOGmeT9Tw
 created: 2025-11-20
 tags:
-  - "clippings"
+  - clippings
 ---
 ## yarn dlx 명령어의 dlx 가 정확히 뭐야? 줄임말이야? dlx가 뭔지 정확한 공식문서를 기반으로만 설명해줘 원리
 

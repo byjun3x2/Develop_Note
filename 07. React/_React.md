@@ -1,1 +1,1 @@
-[[_JavaScript]]
+[[_Javascript]]
