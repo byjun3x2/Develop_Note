@@ -17,4 +17,4 @@
 3.  'Open another vault' > 'Open folder as vault'를 선택합니다.
 4.  복제한 저장소의 디렉터리를 선택합니다.
 
-노트들의 연결고리를 보고 싶다면 Windows 기준 "Ctrl + G" Mac 기준 "Cmd + G" 를 입력하세요
+노트들의 연결고리를 보고 싶다면 Windows 기준 "Ctrl + G" Mac 기준 "Cmd + G" 를 입력하세요..
