@@ -1,10 +1,11 @@
 ---
 link: "[[_Clipping]]"
-title: "MySQL mysql_secure_installation 실행 시 validate_password 플러그인 엄격 설정 관련 버그 및 해결"
-source: "https://www.perplexity.ai/search/mysql-mysql-secure-installatio-AHL8D630RnyQdB9_TNbd.g"
+title: MySQL mysql_secure_installation 실행 시 validate_password 플러그인 엄격 설정 관련 버그 및 해결
+source: https://www.perplexity.ai/search/mysql-mysql-secure-installatio-AHL8D630RnyQdB9_TNbd.g
 created: 2025-10-26
 tags:
-  - "clippings"
+  - MySQL
+  - DB
 ---
 [MySQL:: MySQL 8.4 Reference Manual:: 6.4.2 mysql\_secure\_installation](https://dev.mysql.com/doc/refman/8.4/en/mysql-secure-installation.html)
 
