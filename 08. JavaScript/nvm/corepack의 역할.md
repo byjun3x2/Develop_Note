@@ -1,5 +1,5 @@
 ---
-link: "[[_Javascript]]"
+link: "[[_JavaScript]]"
 title: nvm 을 설치하고 node 의 lts 버전을 설치하고 yarn 을 사용하기 위해 corepack enable 을 하는데 여기서
 source: https://www.perplexity.ai/search/nvm-eul-seolcihago-node-yi-lts-eUhvewvcTBulyNdYEK9IkQ
 created: 2025-11-20

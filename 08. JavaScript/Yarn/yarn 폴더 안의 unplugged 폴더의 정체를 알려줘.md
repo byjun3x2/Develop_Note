@@ -1,5 +1,5 @@
 ---
-link: "[[_Javascript]]"
+link: "[[_JavaScript]]"
 title: _yarn 폴더 안의 unplugged 폴더의 정체를 알려줘
 source: https://www.perplexity.ai/search/yarn-poldeo-anyi-unplugged-pol-A7UDiIeAR1CuIzrfD2XTVA
 created: 2025-11-20
