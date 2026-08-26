@@ -1,3 +1,5 @@
+[[_HTML & CSS]]
+
 CSS에서 `background`와 `background-color`는 얼핏 비슷해 보이지만, **단일 속성**이냐 **단축 속성(Shorthand)**이냐라는 큰 차이가 있습니다.
 
 ---
